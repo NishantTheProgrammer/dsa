@@ -1,0 +1,11 @@
+Types of reccursions
+    - Head reccursion
+        When first thing is reccursive call
+    - Tail reccursion
+        When last thing is reccursive call
+    - Tree reccursion
+        When reccursive call more then once
+    - Nested reccursion
+        When one reccursive call is dependent of result of another reccursive call within same itteration
+    - Indirect reccursion
+        When function A is calling function B and function B is calling functionA
